@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Secular+One&display=swap');
+
+body{
+    display: flex;
+    justify-content: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(213, 209, 209);
+}
+
+header, h1{
+    color: #11ae79;
+    font-size: 4rem;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+}
+
+/*  */
+
+main{
+    display: flex;
+    gap: 25px;
+    margin: 200px;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+    gap: 50px;
+    max-width: 1200px;
+    padding: 10px 0;
+}
+
+section + iframe{
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    justify-content: center;
+}

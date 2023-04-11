@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/index.css">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link rel="shortcut icon" href="./assets/imagens/favicon.ico" type="image/x-icon">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="./scripts/login.js" defer></script>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@500&family=Secular+One&display=swap"
+        rel="stylesheet">
+    <title>Safe Goal - Login</title>
+</head>
+
+<body>
+    <div class="sidenav">
+        <div class="login-main-text">
+            <img src="./assets/imagens/SF.png" alt="" width="150px">
+            <h1>Acesse nossa ferramente para apostas ao vivo</h1><br><br><br>
+            <h3>Entrem em contato para ter acesso<br> (85) 98870-9060 / @safegoal365</h3>
+        </div>
+    </div>
+    <div class="main">
+        <div class="col-md-6 col-sm-12">
+            <div class="login-form">
+                <form>
+                    <div class="form-group">
+                        <label>Usuário</label>
+                        <input type="text" id="login" class="form-control" placeholder="Usuário" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Senha</label>
+                        <input type="password" id="senha" class="form-control" placeholder="Senha" required>
+                    </div>
+                    <button type="submit" class="btn btn-outline-success"
+                        onclick="logar(); return false">Acessar</button>
+                    <a class="btn btn-outline-secondary" href="./pages/register.html" role="button">Registre-se</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

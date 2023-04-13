@@ -18,8 +18,18 @@ const users = [
         id: '4',
         login: 'CLZpaulinho',
         pass: '413721'
+    },
+    {
+        id: '5',
+        login: 'dago',
+        pass: 'safe2023'
+    },
+    {
+        id: '6',
+        login: 'adelmo',
+        pass: 'safe2023'
     }
-]
+];
 
 function logar() {
     let getUsers = document.getElementById('login').value;

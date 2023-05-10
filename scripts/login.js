@@ -26,8 +26,8 @@ const users = [
     },
     {
         id: '6',
-        login: 'adelmo',
-        pass: 'safe2023'
+        login: 'nestorgarcia',
+        pass: 'ongarcia'
     }
 ];
 

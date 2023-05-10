@@ -21,8 +21,8 @@ const users = [
     },
     {
         id: '5',
-        login: 'dago',
-        pass: 'safe2023'
+        login: 'dagodf',
+        pass: 'Dago2023'
     },
     {
         id: '6',

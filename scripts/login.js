@@ -48,6 +48,11 @@ const users = [
         id: '10',
         login: 'wandrey',
         pass: 'Oliver154263'
+    },
+    {
+        id: '11',
+        login: 'amontos2017',
+        pass: '55651331oi'
     }
 ];
 

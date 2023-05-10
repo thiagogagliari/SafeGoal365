@@ -36,8 +36,8 @@ const users = [
     },
     {
         id: '8',
-        login: '',
-        pass: ''
+        login: 'rouger',
+        pass: '1978'
     }
 ];
 

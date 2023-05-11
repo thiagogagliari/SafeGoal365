@@ -2,7 +2,7 @@ const users = [
     {
         id: '1',
         login: 'thiagogagliari',
-        pass: 'Thisam@y100512'
+        pass: '19852810'
     },
     {
         id: '2',

@@ -64,6 +64,12 @@ const users = [
         login: 'amontos2017',
         pass: '55651331oi',
         name: 'Marcelo Alves'
+    },
+    {
+        id: '12',
+        login: 'hardshok',
+        pass: 'Hpd123456@',
+        name: 'Leonardo Luz'
     }
 ];
 

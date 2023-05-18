@@ -60,25 +60,36 @@ section + iframe{
     }
 }
 
-.live a{
+.green a{
     text-decoration: none;
     color: white;
     font-size: 15px;
     background-color: #11ae79;
 }
 
-.live{
+.green{
     margin-left: 15px;
     margin: 15px;
 }
-.off a{
+.red a{
     text-decoration: none;
     color: white;
     font-size: 15px;
-    background-color: #f33c0e;
+    background-color: red;
 }
 
-.off{
+.red{
+    margin-left: 15px;
+    margin: 15px;
+}
+.void a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    background-color: #b9cc0a;
+}
+
+.void{
     margin-left: 15px;
     margin: 15px;
 }

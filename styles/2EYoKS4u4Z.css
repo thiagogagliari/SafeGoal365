@@ -60,7 +60,7 @@ section + iframe{
     }
 }
 
-.green a{
+.green span{
     text-decoration: none;
     color: white;
     font-size: 15px;
@@ -71,7 +71,7 @@ section + iframe{
     margin-left: 15px;
     margin: 15px;
 }
-.red a{
+.red span{
     text-decoration: none;
     color: white;
     font-size: 15px;
@@ -82,7 +82,7 @@ section + iframe{
     margin-left: 15px;
     margin: 15px;
 }
-.void a{
+.void span{
     text-decoration: none;
     color: black;
     font-size: 15px;

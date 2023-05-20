@@ -84,9 +84,9 @@ section + iframe{
 }
 .void span{
     text-decoration: none;
-    color: black;
+    color: white;
     font-size: 15px;
-    background-color: #b9cc0a;
+    background-color: #7c0fa7;
 }
 
 .void{

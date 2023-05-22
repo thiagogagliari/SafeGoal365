@@ -90,9 +90,10 @@ function logar() {
 
     if (validLogin == true) {
         alert(`Seja bem-vindo ${getUsers}`);
-        location.href = 'pages/2EYoKS4u4Z.html';
+        location.href = 'pages/dashboard.html';
     } else {
         alert('Usuário e/ou senha inválidos!');
+        location.href = 'pages/register.html';
     }
 
 };

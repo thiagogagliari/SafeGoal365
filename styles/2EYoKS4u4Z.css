@@ -93,3 +93,7 @@ section + iframe{
     margin-left: 15px;
     margin: 15px;
 }
+
+.green a{
+    text-decoration: none;
+}

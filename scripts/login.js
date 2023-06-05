@@ -12,12 +12,6 @@ const users = [
         name: 'Igor Vidal'
     },
     {
-        id: '3',
-        login: 'samuelalmd93',
-        pass: 'Dino6740',
-        name: 'Samuel Almeida'
-    },
-    {
         id: '4',
         login: 'CLZpaulinho',
         pass: '413721',

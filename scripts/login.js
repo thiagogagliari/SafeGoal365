@@ -12,12 +12,6 @@ const users = [
         name: 'Igor Vidal'
     },
     {
-        id: '4',
-        login: 'CLZpaulinho',
-        pass: '413721',
-        name: 'Paulo Edson'
-    },
-    {
         id: '5',
         login: 'dagodf',
         pass: 'Dago2023',
@@ -42,12 +36,6 @@ const users = [
         name: 'Rouger Iurk'
     },
     {
-        id: '9',
-        login: 'eng.michel2013',
-        pass: '15081963',
-        name: 'Michel'
-    },
-    {
         id: '10',
         login: 'wandrey',
         pass: 'Oliver154263',
@@ -59,12 +47,6 @@ const users = [
         pass: '55651331oi',
         name: 'Marcelo Alves'
     },
-    {
-        id: '12',
-        login: 'hardshok',
-        pass: 'Hpd123456@',
-        name: 'Leonardo Luz'
-    }
 ];
 
 function logar() {
@@ -84,7 +66,7 @@ function logar() {
 
     if (validLogin == true) {
         alert(`Seja bem-vindo ${getUsers}`);
-        location.href = 'pages/2EYoKS4u4Z.html';
+        location.href = 'pages/T5By4kInZH.html';
     } else {
         alert('Usuário e/ou senha inválidos!');
         location.href = 'pages/register.html';

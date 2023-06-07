@@ -1,19 +1,18 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Raleway:wght@900&display=swap');
 
 body {
-    font-family: Poppins;
+    font-family: 'Chakra Petch', sans-serif;
 }
 
 .main-head{
     height: 100px;
     background: #FFF;
-   
 }
 
 .sidenav {
     height: 100%;
-    background-color: #11ae79;
+    background-color: black;
     overflow-x: hidden;
     padding-top: 20px;
 }
@@ -65,7 +64,7 @@ body {
     padding: 60px;
     color: #fff;
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Chakra Petch', sans-serif;
 }
 
 .login-main-text img{

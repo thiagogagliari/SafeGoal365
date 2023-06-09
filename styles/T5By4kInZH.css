@@ -74,6 +74,7 @@ section + iframe{
 .green{
     margin-left: 15px;
     margin: 15px;
+    padding-left: 50px;
 }
 .red span{
     text-decoration: none;
@@ -86,6 +87,7 @@ section + iframe{
 .red{
     margin-left: 15px;
     margin: 15px;
+    padding-left: 50px;
 }
 .wait span{
     text-decoration: none;
@@ -93,6 +95,12 @@ section + iframe{
     font-size: 15px;
     background-color: blue;
     border-radius: 25px;
+}
+
+.wait{
+    margin-left: 25px;
+    margin: 15px;
+    padding-left: 50px;
 }
 
 .void{

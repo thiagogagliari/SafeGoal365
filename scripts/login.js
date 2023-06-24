@@ -47,6 +47,12 @@ const users = [
         pass: '55651331oi',
         name: 'Marcelo Alves'
     },
+    {
+        id: '12',
+        login: 'Cantergi',
+        pass: '071322',
+        name: 'Ricardo Cantergi'
+    },
 ];
 
 function logar() {

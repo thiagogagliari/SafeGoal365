@@ -12,6 +12,11 @@ header {
     background-color: #2bb469;
     padding: 10px;
   }
+
+  .danger{
+    color: rgb(0, 255, 55);
+    font-size: xx-large;
+  }
   
   /* Estilo do menu */
   .menu {

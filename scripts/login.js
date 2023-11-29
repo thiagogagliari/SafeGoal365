@@ -59,6 +59,12 @@ const users = [
         pass: 'Icefruit10',
         name: 'Edson Alves'
     },
+    {
+        id: '14',
+        login: 'Teste',
+        pass: 'teste',
+        name: 'Teste'
+    },
 ];
 
 function logar() {

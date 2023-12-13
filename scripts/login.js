@@ -84,7 +84,7 @@ function logar() {
 
     if (validLogin == true) {
         alert(`Seja bem-vindo ${getUsers}`);
-        location.href = 'pages/T5By4kInZH.html';
+        location.href = 'pages/20231214.html';
     } else {
         alert('Usuário e/ou senha inválidos!');
         location.href = 'pages/register.html';

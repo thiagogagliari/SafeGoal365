@@ -2,7 +2,7 @@ const users = [
     {
         id: '1',
         login: 'thiagogagliari',
-        pass: '19852810',
+        pass: 'Thisam@y100512',
         name: 'Thiago Gagliari'
     },
     {
@@ -58,12 +58,6 @@ const users = [
         login: 'Edson',
         pass: 'Icefruit10',
         name: 'Edson Alves'
-    },
-    {
-        id: '14',
-        login: 'Teste',
-        pass: 'teste',
-        name: 'Teste'
     },
 ];
 
